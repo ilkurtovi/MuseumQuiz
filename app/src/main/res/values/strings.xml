@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Museum Quiz</string>
+    <string name="introduction">Test your museum knowledge now!</string>
+    <string name="question1">Name the hometown of the Louvre Museum</string>
+    <string name="question2">The first public museum was opened in...</string>
+    <string name="question3">What is the name of the most famous museum island?</string>
+    <string name="question4">In these two museums you can find paintings of Van Gogh</string>
+</resources>
